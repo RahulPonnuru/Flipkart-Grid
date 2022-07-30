@@ -1,5 +1,5 @@
 # Code
-To install Node Modules
+Following commands will be of utmost importance while cloning the repository
 1. `npm i`
 2. `npx hardhat node`
 3. `npx hardhat run src/backend/scripts/deploy.js --network localhost`
