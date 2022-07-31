@@ -6,9 +6,9 @@ Following commands will be of utmost importance while cloning the repository
 4. `npm run start`
 
 Change Directory to server folder
-`cd src/server/`
-`npm i `
-`node index.js`
+`cd src/server/` <br/>
+`npm i ` <br/>
+`node index.js` <br/>
 
 # Implementation Video
 
