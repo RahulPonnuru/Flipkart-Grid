@@ -5,6 +5,11 @@ Following commands will be of utmost importance while cloning the repository
 3. `npx hardhat run src/backend/scripts/deploy.js --network localhost`
 4. `npm run start`
 
+Change Directory to server folder
+`cd src/server/`
+`npm i `
+`node index.js`
+
 # Implementation Video
 
 https://user-images.githubusercontent.com/84375036/181937350-a55e191d-7ec4-4196-9367-92594816a281.mp4
